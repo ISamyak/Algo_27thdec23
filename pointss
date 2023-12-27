@@ -1,0 +1,193 @@
+2:58 - start
+
+ltp atp record itm +2 -2  2:59-3:00 1 min ka 
+capture min atp - ltp
+range add 10-20 add 12
+
+19100 atm 19050 ce itm add
+5 tick non continous
+
+and
+
+atm call ka rate 0-5 rs ke beech me atm put * 3
+5-9 2.8 times
+
+and
+
+call bikwaa rhaa - sum 2:58 se 3:00 pm tak min sum ki max tick konse strike price ( it can be on call or put) 19150 - 19100 me jata hai 
+19100 - 19000 itm call me chala jata hai tab trade lena hai 
+
+19050 me gyaa to 1 yaa 1.5 rs upaar bid dalna hai
+
+
+18800 - 18750 me jata hsi  5 tick lena hai , 1-1.5 rs + bid
+18800 - 18700 , trade instantly
+
+
+if put nme(18850) reciord kiya hota waHAN SE 18800 JATA HAI OR 5 TICKS RECIORD KARTA - 1-1.5 RS 
+
+18850-18750 ME JATA TO INSTANTLY
+
+
+
+AGAR 18900 - 18850 ME NO trade
+18900 se 18800  market sell 5 tick
+
+
+1 -1.5 rs nhi nikla hai or usse phle agar 50 point or shift hogya to trade intiate kar dena hai atm bechna hai----------COMP
+
+2 if call ka hi max tick hai or ek shift hua to wo atm se 2 strike price upaar hai to intiate trade instantly ---- COMP
+
+
+3 SUM SUBHA SE
+4 ATM UPAAR 2 OR USSE BHAAR , SELL IN MARKET
+
+
+1st best cumulative
+1st best change jo spot se nazdeek usme katwana hai , Jo rate hai 
+call ke 2 sp -- best Oi or Best cumulative or usse aage wale   combination cumulative ka sum 1 cr ka 
+put ke 2 sp -- best wale se cumultaive  jaise 19700 best hai to  -----  19750 - 19800 --- sum 60lakh
+
+call - put sum 40 lakh,  ---- isi ke sum 10 lakh jada ho jana chhiyee put becomes 90 and call become 80
+
+if 19700 + 19750 ke diiference 40 lakh huaa to okkk warna 19750 pe + 19800pe 
+
+
+600 bazaar ka spot rate ----- 500 tak le skte 
+
+
+
+
+
+New for 2 pm Trade------ 4th Aug
+
+1st tick 10lakh ke baad 300 call me 10 lakh ,250 ki put me Oi bana hai 2 lakh bana , ro put side -ve tick dekhb ke trade kar denge ////// agar yahi 200 hai (mtlb 100 point vduur hai to hum trade le skte hai)
+
+1st tick 10lakh ke baad 300 call me 10 lakh , 250 ki put me OI bana hai 2 lakh se jada hai , or 250 me shift karana jaruri hai (Negative tick compulsory)  
+
+
+300 ki call me bhi hai 250 ki call me 2nd best hona chhiyee bhi hai or 200 ki put me hai to hum call bech skte hai (put ke side hai best) --- rate hai 280 ek itm hona chhiyee 
+
+
+
+8 aug
+-------------------------------------------
+1. Divergence (Added in itm , jahan work nhi hua hai , ex 20100 me huaa  or 20125 uss din gyaa hi nhi hai ) 10 lakh add + -ve tick ---- trade ( 50 point duur) --- done
+
+2. ATM me 100 duur or 20% less addition (50 point dur)---done
+
+3. Jisme beche uska Oi pura zero tab exit karo
+4. Opposite side ka 21150 se 20100 me aa gyaa shift hoke ( sabse best hogyaa)---- 20100 iss liye kyunki 20100 ke basis me put becha hai ( same hi bechna hai -- 50 duur nhi karna hai)
+
+5. negative dono me aaye yaa fir add kaam ho or cut jada ho pe me atm , atm-50 , call me atm , atm +50  --- done
+
+6. Higher and lower index shift - it becomes best
+
+7. ------ After shifting twice , sell atm when OI is added in large as compare to best OI of other side ------
+
+-----------------------------------------------------------------------------------------------------
+
+1. Move forward in pe , backward in CE ---- consider till next or 2,3 ticks
+2. Moved one should be best 8625 to 8650 then 8650 should be best
+3. opposite side should be cut hona hai 8650  and 8675 call
+4. 8650/8675(top add) me add jitna hoga usse jada dono me se ek me cut hona chhiyee
+5. Atm sell kar di jo shift hua hai
+
+
+-----------------------------------------
+Teji
+
+cumulative best pe 10 baje usse aage jaise 7 aug ko 19500 me that to usse do aage wale 19550 +19600 pe
+
+call ke liye Change or Cumulative jo near hai spot price ke aaj 19550 atm hai 19600 me best oi change tha , 19600 or usek ek aage wala 19650 
+
+dono ka sum 19550+19600 OI pe sum
+19600 ce + 19650 ce OI ce sum 
+
+jab cross ho jaye or 4 lakh uske baad ek tick me cut jaye tab trade karna hai
+
+
+
+--------------------------------------------------------------------------------------------
+Stop loss pending
+
+
+Protection ---- atm , itm 1 and 10th  ------  1/20th protection    ---- bazaar ka spot rate above 360- 370   
+
+
+
+4th July- fIN  - AROOUND 11AM - 20400 CE 20200 PE - 11:40 ---- 
+
+
+28 Aug midcapo nifty 1:27 ---  8750 ce -- subraction 8775 ce -- addition , 8750 pe --- subtraction why on falling market 8750 ce is subtraction
+- Add 1 more sp should have any OI change +ve should be their like today 8750 should have +ve
+
+-----------------------------------------------------------------------------------------------
+
+1. Best 2 ce and pe ---- Both top Cumulative should be  at opposite side like one in CE and Another in PE
+2. Second best is ITM OI like Date 29th Aug --- 19750 PE is best in PE side and Second best overall , 19800 PE which is ITM is second best of PE -- the most probable chance is it will eat up all premium of second best OI
+
+Another info from my end - OI jada cut hi nhi huaa , second OI is very high (Cumulative and day Change OI) 
+
+
+27-6-23 - fininfty
+4-7-23 - fininifty
+6-7-23 - nifty
+13-7-23
+27-7-23
+
+-------------------------------------------------------------
+1. Change move from 300 to 250 in case of put then 2 pm condition
+2. Change move from 300 to 350 in case of call 
+
+
+--------------------------------------------------------------------------------------
+
+1. if trade --- 
+
+Sunview market
+
+
+
+If far away strike price got reduced and addition n near  by strike price for continue for 3-4 ticks shows that it is selling far sp and coming near by.
+
+
+19768
+
+
+1. ITM less than zero addition when Addition of 10lakh is completed
+
+2. OI change should be in 2nd best of trade side
+
+3. opposite side trade to continue if new itm sp should be in 2nd best with 10% otherwise square off opposite side.
+
+
+
+1. If there is no significant OI in nearest ITM strike price then we have to hold pe as well as sell far strike prioce of opposite side like 5th october when 
+
+
+
+1. If not shifted base then sell 150 point and if not trending then we can sell joda , otherwise we only need to sell one side only.
+
+1. trending - no joda only one side 
+2. base shift - 100 point joda 
+3. no shift - joda - 150 point
+
+
+customercare@vietjetair.com
+customerservice@vietjetair.com
+
+------------------------------------------------------------------------------------------------------------
+13th october senses greed fear - 66500 CE AND 66400
+
+When market making sudden spike and when cut OI earlier started adding like 13th oct in sensex 66500 and 66400 CE gets cut when market trends +ve and after that
+market makes the high and move in opposite direction and OI of the SP hike the highest OI of 66500 and 66400 ce we sell 100 points away - like same greed fear
+
+
+----------------------------------------------------------------------------------------------
+10TH NOVEMBER
+
+1. rank itm shifts its position
+2. gread fear- 3 ticks -ve contionous on falling supoose 19420 pricve 19450,19500,19550 till 3 strike price 3 ticks -ve , after that addition on rising 1 tick
+3. last 5 min high should be taken off before rank shifts part
+ 
